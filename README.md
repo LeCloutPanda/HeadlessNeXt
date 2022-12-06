@@ -2,18 +2,18 @@
 
 ## What is Headless NeXt?
 
-Headless NeXt is a asortment of mods created by [LeCloutPanda](https://github.com/LeCloutPanda), [NeroWolf](https://github.com/NeroWolf001) and [Sox](https://github.com/Sox-NeosVR) that aims to provide a better expierence for Headless clients.
+Headless NeXt is an assortment of mods created by [LeCloutPanda](https://github.com/LeCloutPanda), [NeroWolf](https://github.com/NeroWolf001) and [Sox](https://github.com/Sox-NeosVR) that aims to provide a better experience for Headless clients.
 
 ## What does it do?
 
 1) Makes all Video Players in the world have a local volume slider and sets the default volume to be 0 preventing the need to try and find a Video Player playing audio just to turn it down
-2) Same thing as the Video Player one but instead it does it for a users Audio Stream
+2) Same thing as the Video Player one, but instead it does it for a user's Audio Stream
 3) Fixes the weird snapping behaviour that happens when using the Avatar Creator whilst moving the Headset and Hands around
 4) Makes all Scale Compensations on every user be set to 1 which prevents weird audio fall off issues and other oddities 
 
 ## Can I use these on my normal Neos client?
 
-Yes you can but it is highly recommended to use the standalone versions to all the mods as this mod will only work in worlds that you/your headless are hosting
+Yes you can, but it is highly recommended to use the standalone versions to all the mods as this mod will only work in worlds that you/your headless are hosting
 
 ## Where can I get all the standalone versions?
 
