@@ -2,7 +2,7 @@
 
 ## What is Headless NeXt?
 
-Headless NeXt is an assortment of mods created by [LeCloutPanda](https://github.com/LeCloutPanda), [NeroWolf](https://github.com/NeroWolf001) and [Sox](https://github.com/Sox-NeosVR) that aims to provide a better experience for Headless clients.
+Headless NeXt is an assortment of mods created by nultiple users that aims to provide a better experience for Headless clients.
 
 ## What does it do?
 
@@ -24,6 +24,9 @@ Yes you can, but it is highly recommended to use the standalone versions to all 
 [LocalStreamAudioVolumeHeadless](https://github.com/NeroWolf001/LocalStreamAudioVolumeHeadless) by [NeroWolf](https://github.com/NeroWolf001)
 
 [CompliantAvatarCreator](https://github.com/Sox-NeosVR/CompliantAvatarCreator) by [Sox](https://github.com/Sox-NeosVR)
+
+[NeosHeadlessToolTipKickCrashFix](https://github.com/Nytra/NeosHeadlessToolTipKickCrashFix) by [Nytra](https://github.com/Nytra)
+
 
 ## I have recommendations!
 Create a pull request with any ideas or suggestions you would like to be implemented into Headless NeXt
