@@ -5,7 +5,7 @@
 
 ## What is Headless NeXt?
 
-Headless NeXt is an assortment of mods created by nultiple users that aims to provide a better experience for Headless clients.
+Headless NeXt is an assortment of mods created by multiple users that aims to provide a better experience for Headless clients.
 
 ## What does it do?
 
