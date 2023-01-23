@@ -42,7 +42,7 @@
     </Reference>
     <Reference Include="FrooxEngine, Version=2022.1.28.1335, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\NeosHeadless\FrooxEngine.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\NeosHeadless\Neos_Data\Managed\FrooxEngine.dll</HintPath>
     </Reference>
     <Reference Include="NML">
       <HintPath>D:\Games\SteamLibrary\steamapps\common\NeosVR\NML.dll</HintPath>
