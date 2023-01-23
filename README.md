@@ -1,5 +1,8 @@
 ![HeadlessNeXtBanner](https://user-images.githubusercontent.com/53411604/205525814-0d11ce0d-b342-4dca-a8e6-d6fd50c827bf.png)
 
+## Grab the latest release
+[HeadlessNeXt](https://github.com/LeCloutPanda/HeadlessNeXt/releases/latest/download/HeadlessNext.dll)
+
 ## What is Headless NeXt?
 
 Headless NeXt is an assortment of mods created by nultiple users that aims to provide a better experience for Headless clients.
