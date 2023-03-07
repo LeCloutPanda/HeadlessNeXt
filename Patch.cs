@@ -25,7 +25,7 @@ namespace HeadlessNext
 
         public override void OnEngineInit()
         {
-            Harmony.DEBUG = true;
+            Harmony.DEBUG = false;
             harmony = new Harmony($"dev.LeCloutPanda.HeadlessNeXt");
             harmony.PatchAll();
 
